@@ -161,7 +161,7 @@ export default function App() {
         <Navbar onSearchClick={triggerScrollToPlanner} />
 
         {/* Responsive Split-Layout for Hero Section content */}
-        <div className="relative z-10 flex-grow w-full max-w-7xl mx-auto pt-28 pb-12 lg:py-0 px-4 flex items-center">
+        <div className="relative z-10 flex-grow w-full max-w-7xl mx-auto pt-28 pb-12 lg:pt-36 lg:pb-16 px-4 flex items-center">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center w-full">
             
             {/* Left Column: Focused Plot-Centric Narrative */}
