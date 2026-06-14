@@ -1,0 +1,6 @@
+{
+  "name": "Oceanic Tours & Travel",
+  "description": "An immersive, stunning tours and travel website hero section featuring a looping ocean video background, custom ocean-like color theme, interactive trip planning tools, and exquisite typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
